@@ -10,7 +10,7 @@ KEYMAP="us"
 TIMEZONE="Europe/Amsterdam"
 LANG="en_US.UTF-8"
 CRYPTDEVNAME="pool-party"
-VGNAME="sars-pool"
+VGNAME="sars_pool"
 
 #set static sizes for lvm's to be calculated and used
 VGNAME_SWAP_SIZE=8
